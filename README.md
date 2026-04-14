@@ -42,8 +42,7 @@ Tools that enforce correctness, isolate risk, and ship fast. I like solving prob
 
 ## 📊 Profile Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimbot9k&show_icons=true&theme=github_dark&hide_border=true&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimbot9k&theme=github_dark&hide_border=true&layout=compact&langs_count=8)
+![Stats](./profile/stats.svg)
 
 ---
 

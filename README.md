@@ -44,6 +44,8 @@ Tools that enforce correctness, isolate risk, and ship fast. I like solving prob
 
 ![Stats](./profile/stats.svg)
 
+![Language](./profile/top-langs.svg)
+
 ---
 
 ## 🎯 Currently
